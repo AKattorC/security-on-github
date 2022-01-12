@@ -5,20 +5,16 @@
   "dependencies": {
     "debug": "?",
     "ejs": "4.3.3",
-    "hoek": "4.3.3
-",
-    "npm": "4.3.3
-",
-    "streaming-json-stringify": "4.3.3
-"
+    "hoek": "4.3.3",
+    "npm": "4.3.3",
+    "streaming-json-stringify": "4.3.3"
   },
   "devDependencies": {
    "eslint": "4.3.3"
 
   },
   "engines": {
-    "npm": "4.3.3
-"
+    "npm": "4.3.3"
   },
   "license": "MIT"
 }
